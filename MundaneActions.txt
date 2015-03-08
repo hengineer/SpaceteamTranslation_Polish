@@ -1,0 +1,189 @@
+Zmyj,Naczynia
+Umyj,Zęby
+Odetkaj,WC
+Segreguj,Pranie
+Zaserwuj,Ciasteczka
+Zaserwuj,Napoje
+Podrzyj,Dokumenty
+Zapłać,Podatek
+Dopasuj,Skarpetki
+Wyczyść,Kafelki Kuchenne
+Popraw,Poduszki
+Uzupełnij,Mydło
+Znajdź,Nemo
+Wypoleruj,Srebro stołowe
+Podlej,Kwiatki
+Wyrzuć,Śmieci
+Segreguj,Śmieci
+Obierz,Ziemniaki
+Sprawdź,Suflet
+Umyj,Szybę
+Wypoleruj,Lustro
+Naładuj,Baterie
+Wytrzyj,Podłogę
+Nawoskuj,Podłogę
+Naoliw,Skrzypiące Drzwi
+Natłuść,Patelnię
+Rozplącz,Kable
+Odbierz,Listy
+Zarejestruj,Produkt
+Powieś,Obrazki
+Ułóż,Pudełka
+Dostrój,Pianino
+Potasuj,Karty
+Przesłuchaj,Obiekt Testowy
+Przekup,Funkcjonariuszy
+Wyrzuć,Ładunek
+Złóż,Ręczniki
+Zaktualizuj,Rejestr Statku
+Kopnij,Sprzęt grający
+Wymień,Filtry
+Sekwencjonuj,Genom
+Sporządź,Plan Awaryjny
+Sporządź,Plan Weekendowy
+Zaplanuj,Działania
+Stwórz,Dysk zapasowy
+Roześlij,Rabaty
+Sprzedaj,Akcje
+Wykup,Ubezpieczenie
+Doceń,Dzieło sztuki
+Inwentaryzuj,Ładunek
+Wypunktuj,Rachunki
+Zbilansuj,Konto bankowe
+Zgromadź,Zapasy
+Przetestuj,Trafność Hipotez
+Zamontuj,Półki
+Nastaw,Zegarek
+Nakręć,Zegarek
+Włącz,Kierunkowskaz
+Anuluj,Subskrypcje
+Zaktualizuj,Program
+Wymień,Tusz
+Umyj,Zlew
+Wyczyść,Rynny
+Przebuduj,Pokój
+Rozważ,Istnienie Ludzkości
+Zatop,Żal
+Rozważ,Kupno Ulepszeń
+Nakarm,Rybki
+Nakarm,Zwierzęta Hodowlane
+Zapakuj,Prezenty
+Zamroź,Resztki
+Zapnij,Pasy
+Nałóż,Słuchawki
+Złóż,Zażalenie
+Przedyskutuj,Opcje
+Wychwalaj,Poprzednie załogi
+Zapłać,Rachunek za Gaz
+Ustaw,Krzesła
+Segreguj,Książki
+Zrób,Kanapki
+Ukryj,Kosztowności
+Rozstaw,Stolik
+Oszacuj,Szanse Na Przetrwanie
+Zapłać,Mandat
+Zainicjuj,Manewry Wymijające
+Włącz,Tarcze
+Przekieruj,Moc
+Podkręć,Silniki
+Przeciąż,Reaktor
+Powstrzymaj,Wybuch
+Katalizuj,Odczyn
+Powstrzymaj,Awarie
+Zwiąż,Ciężkie Obiekty
+Przebudź Się,Zzzzz
+Karmelizuj,Cebulki
+Wyrównaj,Wiszące Obrazy
+Policz,Wszystkie Gwiazdy
+Zerwij,Połączenie
+Posiekaj,Mięso
+Zainicjuj,Bunt Więzienny
+Przywołaj Krakena,Yarrr!
+Wybacz,Przestępcy
+Zignoruj,To Coś Za Nami
+Zignoruj,Tajemnicze Drzwi
+Wybacz,Głupie Zajście
+Przygotuj Się,Nadciąga Zima
+Otwórz,Częstotliwość Wywoływania
+Ogłoś,Nagły Wypadek
+Spisz,Zażalenia
+Wyślij,Sygnał SOS
+Koryguj,Lot
+Zachowaj,Spokój
+Zachowaj,Profesjonalizm
+Zainicjuj,Chaotyczne Panikowanie
+Wyznacz,Nowe Dowództwo
+Zwołaj,Posiedzenie Załogi
+Uformuj,Komitet
+Osiągnij,Konsens
+Posprzątaj,Wymiociny
+Ogarnij,Bałagan
+Ukryj,Bałagan
+Przetwórz,Odpadki
+Zwiększ,Morale
+Pochwal,Dobre Sprawowanie
+Rozpal,Kominek
+Przerzuć,Węgiel
+Wyrównaj,Kwark
+Powikłaj,Kwark
+Odkoduj,Wiadomości
+Rozwiąż,Paradoks
+Napraw,Kontinuum Czasoprzestrzenne
+Zaplącz,Pętle Czasowe
+Odwiedź,Ulubiony Sklep Cytadeli
+Skrzyżuj,Promienie
+Przejrzyj,Mapy Galaktyczne
+Stłum,Powstanie Robotów
+Zaniechaj,Bunt
+Ceruj,Skarpety
+Kwestionuj,Przekonania
+Dolej,Whiskey
+Weź Się,W Garść
+Przedsięwźnij,Środki Ostrożności
+Zacznij Kwestionować,Wybór Kariery
+Zaniechaj,Stan Frustracji
+Rozwiej,Wątpliwości
+Racjonalizuj,Wybory
+Przygotuj,Dobre Wymówki
+Wiń,Społeczeństwo
+Zwróć,Książki
+Obroń,Licencjat
+Zasugeruj,Wyjście Alternatywne
+Analizuj,Postmodernizm
+Wypluj,Płuca
+Wciśnij,Przeklęty Przycisk
+Powstrzymaj,Niepowstrzymane Żądze
+Przywołaj,Miłe Wspomnienia
+Przewiń,Taśmy Kasetowe
+Złam,Istotne Dyrektywy
+Nakarm,Kosmiczne Chomiki
+Nawiąż,Kontakt
+Wymień,Żarówki
+Ocal,Wszechświat
+Uszanuj,Obyczajowość
+Zignoruj,Dziwne Dźwięki
+Zignoruj,Odgórny Rozkaz
+Włącz,Dopalacz
+Włącz,Gry Komputerowe
+Przeczytaj,Podręcznik Systemowy
+Wykorzystaj,Moc Yedi
+Defragmentuj,Dysk Twardy
+Napisz,Powieść
+Zachowaj,Lekkomyślność
+Osiągnij,88 mph
+Przedsięwzij,Zaradcze Kroki
+Pobij,Rekord Guiness'a
+Otrzymaj,Wskazówki
+Podnieś,Brew
+Dodaj,Detergenty
+Dodaj,Odplamiacz
+Znajdź,Kluczowe Guziki
+Wytrzyj,Ekran
+Powołaj,Komitet Powitalny
+Leeeeeeroy,Jenkins!!!
+Zalej,Chińskie Zupki
+Zgłoś,Nieprzygotowanie
+Przegoń,Kosmiczne Węże
+Odbierz,Czerwony Telefon
+Zaświal,Patło
+Zbuduj,Więcej Pylon'ów

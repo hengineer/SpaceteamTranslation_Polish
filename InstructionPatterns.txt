@@ -1,0 +1,7 @@
+Ustaw %@ na %@
+Ustaw %@ na Maksimum
+Ustaw %@ na Pełną Moc
+Zwiększ %@ na %d
+Zmniejsz %@ do %d
+ASTEROIDA! (wsztrząśnijcie urządzeniami)
+CZARNA DZIURA! (obróćcie urządzenia)
